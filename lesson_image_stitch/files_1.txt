@@ -1,0 +1,2 @@
+../resources/mpv-shot0001.jpg
+../resources/mpv-shot0002.jpg

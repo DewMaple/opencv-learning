@@ -4,7 +4,7 @@
 ```
 img = cv2.imread(image_file, cv2::ImreadModes)
 ```
-Read an image to an array, which is a 'height  weight  channel' dimensional array,
+Read an image to an array, which is a 'height  width  channel' dimensional array,
 also an array of (Blue, Green, Red) value
 '3' represents the channel, for gray scale image, represents intensity
 
