@@ -1,5 +1,15 @@
+import glob
+
 import cv2
 import os
+
+
+def images_in_dir(images_dir):
+    filenames = []
+    for ext in ('*.png', '*.gif', '*.jpg', '*.jpeg'):
+        filenames.extend(glob.glob(os.path.join(images_dir, ext)))
+    sorted(filenames)
+    return filenames
 
 
 def find_image(image_name):

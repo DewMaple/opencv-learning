@@ -29,6 +29,12 @@ class Stitch:
 
         return warped_affine[top_pnt[1]:bottom_pnt[1], left_pnt[0]:right_pnt[0]]
 
+    def perspective_trans(self):
+        pts1 = np.float32([[250, 392], [412, 96], [640, 112], [0, 282]])
+        pts2 = np.float32([[480, 640], [0, 0], [480, 0], [0, 640]])
+        M = cv2.getPerspectiveTransform(pts1, pts2)
+        self.im_left = cv2.warpPerspective(self.im_left, M, (480, 640))
+
     def split_image_1(self, image, point1=(618, 126), point2=(254, 388)):
         pnt1, pnt2 = point_on_axis(point1, point2)
         cv2.line(image, pnt1, pnt2, (0, 255, 0), 2)
@@ -53,6 +59,9 @@ class Stitch:
     def stitch(self):
         # self.split_image_1(self.im_left)
         self.split_image()
+        # self.perspective_trans()
+        cv2.imwrite('left.jpg', self.im_left)
+        cv2.imwrite('right.jpg', self.im_right)
         # wraped = self.transform()
 
         # H = matcher.match(self.im_left, wraped)
