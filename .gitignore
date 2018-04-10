@@ -100,3 +100,4 @@ ENV/
 # mypy
 .mypy_cache/
 .idea/
+lesson_face_landmark/shape_predictor_68_face_landmarks.dat
