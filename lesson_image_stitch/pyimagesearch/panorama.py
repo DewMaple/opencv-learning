@@ -1,13 +1,12 @@
 # import the necessary packages
 import cv2
-import imutils
 import numpy as np
 
 
 class Stitcher:
     def __init__(self):
         # determine if we are using OpenCV v3.X
-        self.isv3 = imutils.is_cv3()
+        self.isv3 = True
 
     def stitch(self, images, ratio=0.75, reprojThresh=4.0, showMatches=False):
         # unpack the images, then detect keypoints and extract

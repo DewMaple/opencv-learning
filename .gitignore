@@ -102,3 +102,5 @@ ENV/
 .mypy_cache/
 .idea/
 lesson_face_landmark/shape_predictor_68_face_landmarks.dat
+lesson_blurry_detection/images/*.jpg
+lesson_blurry_detection/output/*.jpg

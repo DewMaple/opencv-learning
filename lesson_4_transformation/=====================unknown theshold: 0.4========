@@ -1,0 +1,108 @@
+=====================unknown theshold: 0.4=============================================
+Accurate is 2844, total: 3295
+Total time spent is: 87.16492533683777
+Average time spent is: 0.026453695094639688
+Average Accuracy is: 0.8631259484066768
+Average Unknown Accuracy is: 0.7718918918918919
+
+
+============================= theshold: 0.36 =====================================
+Accurate is 2712, total: 3295
+Total time spent is: 87.61097502708435
+Average time spent is: 0.02658906677604988
+Average Accuracy is: 0.8230652503793626
+Average Unknown Accuracy is: 0.9954337899543378
+
+============================= theshold: 0.36 =====================================
+Accurate is 2777, total: 3295
+Total time spent is: 87.50513410568237
+Average time spent is: 0.026556945100358838
+Average Accuracy is: 0.8427921092564492
+Average Unknown Accuracy is: 0.9875444839857651
+
+============================= theshold: 0.36 =====================================
+Accurate is 2688, total: 3295
+Total time spent is: 87.69681525230408
+Average time spent is: 0.02661511843772506
+Average Accuracy is: 0.8157814871016692
+Average Unknown Accuracy is: 0.9197019867549668
+
+============================= theshold: 0.36 =====================================
+Accurate is 2712, total: 3295
+Total time spent is: 87.68733596801758
+Average time spent is: 0.02661224156844236
+Average Accuracy is: 0.8230652503793626
+Average Unknown Accuracy is: 0.9958762886597938
+
+============================= theshold: 0.36 =====================================
+Accurate is 2764, total: 3295
+Total time spent is: 87.18952822685242
+Average time spent is: 0.026461161829090262
+Average Accuracy is: 0.8388467374810319
+Average Unknown Accuracy is: 0.9820051413881749
+
+============================= theshold: 0.36 =====================================
+Accurate is 2753, total: 3295
+Total time spent is: 87.52532410621643
+Average time spent is: 0.026563072566378278
+Average Accuracy is: 0.8355083459787557
+Average Unknown Accuracy is: 0.9591584158415841
+
+============================= theshold: 0.355 =====================================
+Accurate is 2751, total: 3295
+Total time spent is: 87.55200815200806
+Average time spent is: 0.026571170911079835
+Average Accuracy is: 0.8349013657056146
+Average Unknown Accuracy is: 0.9930843706777317
+
+======================================= theshold: 0.3555 ===========================
+Accurate is 2606, total: 3295
+Total time spent is: 87.62340998649597
+Average time spent is: 0.02659284066357996
+Average Accuracy is: 0.7908952959028832
+Average Unknown Accuracy is: 0.9073634204275535
+
+==================================theshold: 0.356 ================================
+Accurate is 2690, total: 3295
+Total time spent is: 87.39715385437012
+Average time spent is: 0.02652417415914116
+Average Accuracy is: 0.8163884673748103
+Average Unknown Accuracy is: 0.9510763209393346
+
+===============================  theshold: 0.35  ===================================
+Accurate is 2579, total: 3295
+Total time spent is: 87.46356582641602
+Average time spent is: 0.026544329537607287
+Average Accuracy is: 0.782701062215478
+Average Unknown Accuracy is: 0.9741847826086957
+
+================================== theshold: 0.35 ================================
+Accurate is 2566, total: 3295
+Total time spent is: 87.56843256950378
+Average time spent is: 0.026576155559788706
+Average Accuracy is: 0.7787556904400607
+Average Unknown Accuracy is: 0.9892280071813285
+
+================================== theshold: 0.35 ================================
+Accurate is 2555, total: 3295
+Total time spent is: 87.69470596313477
+Average time spent is: 0.026614478289267
+Average Accuracy is: 0.7754172989377845
+Average Unknown Accuracy is: 0.8940092165898618
+
+
+=============================== theshold: 0.34   ===================================
+Accurate is 2529, total: 3295
+Total time spent is: 87.24785447120667
+Average time spent is: 0.02647886326895498
+Average Accuracy is: 0.7675265553869499
+Average Unknown Accuracy is: 0.9884332281808622
+
+
+
+=============================== theshold: 0.30  ===================================
+Accurate is 1599, total: 3295
+Total time spent is: 87.43752789497375
+Average time spent is: 0.026536427282237863
+Average Accuracy is: 0.4852807283763278
+Average Unknown Accuracy is: 1.009049773755656

@@ -1,0 +1,26 @@
+wgers validation
+============================ fixed size (160,160) ======= jitters:25 ===============================
+Accurate is 2811, total: 3240
+Total time spent is: 84.5064389705658
+Average time spent is: 0.026082234250174627
+Average Accuracy is: 0.8675925925925926
+
+============================ fixed size (160,160) ======= jitters:25 ===============================
+Accurate is 2812, total: 3240
+Total time spent is: 87.52712559700012
+Average time spent is: 0.027014544937345716
+Average Accuracy is: 0.8679012345679012
+
+
+============================= not fixed size ========== jitters:25 ===========================
+Accurate is 3043, total: 3240
+Total time spent is: 87.5039541721344
+Average time spent is: 0.027007393263004446
+Average Accuracy is: 0.9391975308641975
+
+
+============================= not fixed size ========== jitters:25 ===========================
+Accurate is 3028, total: 3240
+Total time spent is: 86.98237347602844
+Average time spent is: 0.026846411566675447
+Average Accuracy is: 0.9345679012345679

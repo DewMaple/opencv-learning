@@ -60,7 +60,7 @@ def main():
             faces, img = detect_face(frame)
             if len(faces) < 1:
                 continue
-            tracker = create_tracker(7)
+            tracker = create_tracker(4)
             tracking = tracker.init(frame, tuple(faces[0]))
             continue
 

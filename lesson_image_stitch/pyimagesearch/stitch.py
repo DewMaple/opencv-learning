@@ -2,11 +2,11 @@
 # python stitch.py --first images/bryce_left_01.png --second images/bryce_right_01.png 
 
 import argparse
-
 import cv2
 import imutils
+
 # import the necessary packages
-from panorama import Stitcher
+from .panorama import Stitcher
 
 # construct the argument parse and parse the arguments
 ap = argparse.ArgumentParser()

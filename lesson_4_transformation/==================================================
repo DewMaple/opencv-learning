@@ -1,0 +1,22 @@
+photo_results3
+====================== training_size: 1 ============================================
+Training size=1
+Accurate is 13450, total: 42040
+Total time spent is: 962.4605085849762
+Average time spent is: 0.022893922659014656
+Average Accuracy is: 0.3199333967649857
+
+
+====================== training_size: 10 ============================================
+Accurate is 15188, total: 26607
+Total time spent is: 596.7073705196381
+Average time spent is: 0.022426706149495924
+Average Accuracy is: 0.5708272259179915
+
+
+
+===================unknown: 0.4===============================================
+Accurate is 2900, total: 3295
+Total time spent is: 1713.7592964172363
+Average time spent is: 0.5201090429187364
+Average Accuracy is: 0.8801213960546282
